@@ -15,4 +15,4 @@ By modeling individual genes, complexes of molecules, and gene families, we cons
 
 These models make predictions about activity profiles in indivdiual tumors, which can be more informative than the source data types. For example in a Norwegian cohort of breast cancer micro-metastases, the subtyping was more informative for progression than the other data types:
 
-![Heatmap of per-patient per-gene pathway activities, with cluster annotation. Additionally, the Kaplan-meier survival curve, and the significance of the progression of the subtypings using various data types](paradigm-application.png)
+![Heatmap of per-patient per-gene pathway activities, with cluster annotation. Additionally, the Kaplan-meier survival curve, and the significance of the progression of the subtypings using various data types](paradigm-micma.png)
