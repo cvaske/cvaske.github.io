@@ -1,3 +1,5 @@
+title: seavaske.com | Personal page of Charles Vaske
+description: Personal page of Charles Vaske, computational biology, bioinformatics, cancer genomics, clinical diagnostisc, and molecular discovery
 url: "https://www.seavaske.com"
 plugins:
   - jekyll-sitemap
