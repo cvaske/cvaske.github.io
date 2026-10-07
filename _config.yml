@@ -1,0 +1,6 @@
+url: "https://www.seavaske.com"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - paradigm-method.key
